@@ -1,0 +1,8 @@
+{
+    "conf.resource.hfAPIKey": "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",
+    "conf.resource.useGPU": true,
+    "editor.experimentalInlineEdit.backgroundColoring": true,
+    "editor.experimentalInlineEdit.enabled": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "prettier.bracketSameLine": true
+}
