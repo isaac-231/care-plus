@@ -4,7 +4,6 @@ import { FormField, FormItem, FormLabel, FormControl, FormDescription, FormMessa
 import { Control } from 'react-hook-form';
 import { FormFieldType } from './forms/PatientForm';
 import Image from 'next/image';
-import PhoneInput from 'react-phone-number-input/input';
 import 'react-phone-number-input/style.css';
 import {E164Number} from "libphonenumber-js/core"
 import PhoneInputWithCountrySelect from 'react-phone-number-input';
